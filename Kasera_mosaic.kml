@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Kasera Pix4D</name>
+<description></description>
+<Style><ListStyle id="hideChildren">
+<listItemType>checkHideChildren</listItemType>
+</ListStyle>
+</Style>
+<NetworkLink>
+<name>14/9713/7580.kml</name>
+<Region>
+<LatLonAltBox>
+<north>-13.304102866767062</north>
+<south>-13.325484885597936</south>
+<east>33.442382812499993</east>
+<west>33.420410156250007</west>
+</LatLonAltBox>
+<Lod>
+<minLodPixels>128</minLodPixels>
+<maxLodPixels>-1</maxLodPixels>
+</Lod>
+</Region>
+<Link>
+<href>14/9713/7580.kml</href>
+<viewRefreshMode>onRegion</viewRefreshMode>
+</Link>
+</NetworkLink>
+<NetworkLink>
+<name>14/9714/7580.kml</name>
+<Region>
+<LatLonAltBox>
+<north>-13.304102866767062</north>
+<south>-13.325484885597936</south>
+<east>33.464355468750007</east>
+<west>33.442382812499993</west>
+</LatLonAltBox>
+<Lod>
+<minLodPixels>128</minLodPixels>
+<maxLodPixels>-1</maxLodPixels>
+</Lod>
+</Region>
+<Link>
+<href>14/9714/7580.kml</href>
+<viewRefreshMode>onRegion</viewRefreshMode>
+</Link>
+</NetworkLink>
+
+</Document>
+</kml>
